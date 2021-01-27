@@ -1,0 +1,7 @@
+{
+    "name": "Copy Message Link",
+    "description": "Copy message links in standard discord format",
+    "author": "Burr#7768",
+    "version": "1.0.0",
+    "license": "MIT"
+}
